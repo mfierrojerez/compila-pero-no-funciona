@@ -1,0 +1,12 @@
+.calendar{background:var(--color-surface);border-radius:var(--radius);box-shadow:var(--shadow);padding:1.2rem}
+.calendar__head{display:flex;align-items:center;justify-content:space-between;margin-bottom:.6rem}
+.calendar__title{font-weight:800}
+.calendar__nav{width:36px;height:36px;border-radius:10px;border:1px solid rgba(15,23,42,.14);background:#fff}
+.calendar__week{display:grid;grid-template-columns:repeat(7,1fr);gap:.25rem;margin:.4rem 0 .4rem}
+.calendar__week span{font-size:.8rem;color:var(--color-muted);text-align:center}
+.calendar__grid{display:grid;grid-template-columns:repeat(7,1fr);gap:.25rem}
+.calendar__day{background:#fff;border:1px solid rgba(15,23,42,.08);aspect-ratio:1/1;border-radius:10px}
+.calendar__day--pad{background:transparent;border:0}
+.calendar__day.has-event{outline:2px solid rgba(13,99,179,.35)}
+.calendar__list{margin-top:1rem;display:grid;gap:.4rem}
+.calendar__list li{background:#fff;border:1px solid rgba(15,23,42,.08);border-radius:10px;padding:.6rem .8rem}

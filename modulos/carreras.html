@@ -1,12 +1,28 @@
 <div class="container">
   <div class="section__header">
     <span class="eyebrow">Oferta académica</span>
-    <h2>Carreras y Programas</h2>
-    <p class="lead">Organiza por áreas. Cada tarjeta puede llevar a una página de detalle.</p>
+    <h2>Carreras</h2>
+    <p class="lead">Explora por áreas.</p>
   </div>
-  <div class="cards">
-    <article class="card"><h3>Ingeniería en Computación</h3><p class="muted">Pregrado — 10 semestres</p></article>
-    <article class="card"><h3>Enfermería</h3><p class="muted">Pregrado — 10 semestres</p></article>
-    <article class="card"><h3>Psicología</h3><p class="muted">Pregrado — 10 semestres</p></article>
+  <div class="tabs" aria-label="Áreas de carreras">
+    <div class="tabs__list" role="tablist" aria-orientation="horizontal">
+      <button class="tabs__btn is-active" role="tab" aria-selected="true" aria-controls="panel-ing" id="tab-ing">Ingeniería</button>
+      <button class="tabs__btn" role="tab" aria-selected="false" aria-controls="panel-salud" id="tab-salud">Salud</button>
+      <button class="tabs__btn" role="tab" aria-selected="false" aria-controls="panel-hum" id="tab-hum">Humanidades</button>
+      <button class="tabs__btn" role="tab" aria-selected="false" aria-controls="panel-eco" id="tab-eco">Económicas</button>
+    </div>
+    <div id="panel-ing" class="tabs__panel" role="tabpanel" aria-labelledby="tab-ing">
+      <div class="cards"><article class="card"><h3>Ing. Computación</h3><p class="muted">10 semestres</p></article><article class="card"><h3>Ing. Eléctrica</h3><p class="muted">10 semestres</p></article></div>
+    </div>
+    <div id="panel-salud" class="tabs__panel" role="tabpanel" aria-labelledby="tab-salud" hidden>
+      <div class="cards"><article class="card"><h3>Enfermería</h3><p class="muted">10 semestres</p></article><article class="card"><h3>Kinesiología</h3><p class="muted">10 semestres</p></article></div>
+    </div>
+    <div id="panel-hum" class="tabs__panel" role="tabpanel" aria-labelledby="tab-hum" hidden>
+      <div class="cards"><article class="card"><h3>Psicología</h3><p class="muted">10 semestres</p></article><article class="card"><h3>Historia</h3><p class="muted">10 semestres</p></article></div>
+    </div>
+    <div id="panel-eco" class="tabs__panel" role="tabpanel" aria-labelledby="tab-eco" hidden>
+      <div class="cards"><article class="card"><h3>Comercial</h3><p class="muted">10 semestres</p></article><article class="card"><h3>Auditoría</h3><p class="muted">10 semestres</p></article></div>
+    </div>
   </div>
 </div>
+
