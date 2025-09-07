@@ -53,10 +53,14 @@ function sliderInit(root){
   const dotsWrap=root.querySelector(".slider__dots");
   let perView=3,index=0,pages=0;
   function computePerView(){
-    const w=root.clientWidth;
-    if(w<=640)perView=1;else if(w<=980)perView=2;else perView=3;
-    pages=Math.max(1,items.length-perView+1);
-    if(index>pages-1)index=pages-1
+    const forced=parseInt(root.dataset.perView||"");
+    if(forced){ perView=forced }
+    else{
+      const w=root.clientWidth;
+      if(w<=640) perView=1; else if(w<=980) perView=2; else perView=3;
+    }
+    pages=Math.max(1,items.length - perView + 1);
+    if(index>pages-1) index=pages-1;
   }
   function update(){
     const step=100/perView;
