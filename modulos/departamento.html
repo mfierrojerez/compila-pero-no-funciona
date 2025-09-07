@@ -1,0 +1,45 @@
+<div class="container">
+  <div class="section__header">
+    <span class="eyebrow">Organización</span>
+    <h2>Departamento</h2>
+    <p class="lead">Selecciona un área para ver su información destacada.</p>
+  </div>
+
+  <div class="tabs" aria-label="Secciones del departamento">
+    <div class="tabs__list" role="tablist" aria-orientation="horizontal">
+      <button class="tabs__btn is-active" role="tab" aria-selected="true" aria-controls="panel-academico" id="tab-academico">Académico</button>
+      <button class="tabs__btn" role="tab" aria-selected="false" aria-controls="panel-investigacion" id="tab-investigacion">Investigación</button>
+      <button class="tabs__btn" role="tab" aria-selected="false" aria-controls="panel-extension" id="tab-extension">Extensión</button>
+    </div>
+
+    <div id="panel-academico" class="tabs__panel" role="tabpanel" aria-labelledby="tab-academico">
+      <div class="panel-grid">
+        <img alt="Académico" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 560 360'%3E%3Crect width='560' height='360' rx='16' fill='%23e5e7eb'/%3E%3C/svg%3E">
+        <div>
+          <h3>Académico</h3>
+          <p>Plan de estudios, mallas curriculares y procesos de acreditación. Información para estudiantes y docentes.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="panel-investigacion" class="tabs__panel" role="tabpanel" aria-labelledby="tab-investigacion" hidden>
+      <div class="panel-grid">
+        <img alt="Investigación" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 560 360'%3E%3Crect width='560' height='360' rx='16' fill='%23dbeafe'/%3E%3C/svg%3E">
+        <div>
+          <h3>Investigación</h3>
+          <p>Grupos, proyectos vigentes y publicaciones. Acceso a convocatorias y fondos concursables.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="panel-extension" class="tabs__panel" role="tabpanel" aria-labelledby="tab-extension" hidden>
+      <div class="panel-grid">
+        <img alt="Extensión" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 560 360'%3E%3Crect width='560' height='360' rx='16' fill='%23dcfce7'/%3E%3C/svg%3E">
+        <div>
+          <h3>Extensión</h3>
+          <p>Vinculación con el medio, actividades culturales y programas de formación continua.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

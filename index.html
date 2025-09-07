@@ -1,2 +1,57 @@
-<h1>pagina github XD XD XD XD XD<h1>  
-<h2>cambio hecho desde vscode</h2>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Sitio institucional universitario modular — one-page con secciones cargadas dinámicamente">
+  <meta name="theme-color" content="#0a4d8c">
+  <title>Universidad Ejemplo</title>
+  <link href="style.css" rel="stylesheet">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar a contenido principal</a>
+
+  <header class="site-header" id="top">
+    <div class="container nav" role="navigation" aria-label="Navegación principal">
+      <a href="#inicio" class="brand" aria-label="Ir a Inicio">
+        <span class="brand__logo" aria-hidden="true">U</span>
+        <span>Universidad Ejemplo</span>
+      </a>
+      <div class="nav__spacer"></div>
+      <button class="nav__toggle" aria-controls="menu-principal" aria-expanded="false" aria-label="Abrir menú">
+        <span aria-hidden="true">≡</span>
+      </button>
+      <nav>
+        <ul id="menu-principal" class="nav__links" role="menubar">
+          <li role="none"><a role="menuitem" class="nav__link" href="#inicio">Inicio</a></li>
+          <li role="none"><a role="menuitem" class="nav__link" href="#noticias">Noticias</a></li>
+          <li role="none"><a role="menuitem" class="nav__link" href="#departamento">Departamento</a></li>
+          <li role="none"><a role="menuitem" class="nav__link" href="#carreras">Carreras</a></li>
+          <li role="none"><a role="menuitem" class="nav__link" href="#admisiones">Admisiones</a></li>
+          <li role="none"><a role="menuitem" class="nav__link" href="#docentes">Docentes</a></li>
+          <li role="none"><a role="menuitem" class="nav__link" href="#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contenido">
+    <section id="inicio" class="hero" data-module="modulos/hero.html" data-css="modulos/hero-style.css"></section>
+    <section id="noticias" data-module="modulos/noticias.html" data-css="modulos/noticias-style.css"></section>
+    <section id="departamento" data-module="modulos/departamento.html" data-css="modulos/departamento-style.css"></section>
+    <section id="carreras" data-module="modulos/carreras.html" data-css="modulos/carreras-style.css"></section>
+    <section id="admisiones" data-module="modulos/admisiones.html" data-css="modulos/admisiones-style.css"></section>
+    <section id="docentes" data-module="modulos/docentes.html" data-css="modulos/docentes-style.css"></section>
+    <section id="contacto" data-module="modulos/contacto.html" data-css="modulos/contacto-style.css"></section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <small>© <span id="year"></span> Universidad Ejemplo. Todos los derechos reservados.</small>
+    </div>
+  </footer>
+</body>
+</html>
+
+
