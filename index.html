@@ -1,60 +1,31 @@
 <!doctype html>
 <html lang="es">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Sitio institucional universitario modular — one-page con secciones cargadas dinámicamente">
-  <meta name="theme-color" content="#0a4d8c">
-  <title>Universidad Ejemplo</title>
-  <link href="style.css" rel="stylesheet">
-  <script src="script.js" defer></script>
-</head>
-<body>
-  <a class="skip-link" href="#contenido">Saltar a contenido principal</a>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0a4d8c">
+    <title>Universidad Ejemplo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div id="root"></div>
 
-  <header class="site-header" id="top">
-    <div class="container nav" role="navigation" aria-label="Navegación principal">
-      <a href="#inicio" class="brand" aria-label="Ir a Inicio">
-        <span class="brand__logo" aria-hidden="true">U</span>
-        <span>Universidad Ejemplo</span>
-      </a>
-      <div class="nav__spacer"></div>
-      <button class="nav__toggle" aria-controls="menu-principal" aria-expanded="false" aria-label="Abrir menú">≡</button>
-      <nav>
-        <ul id="menu-principal" class="nav__links" role="menubar">
-          <li role="none"><a role="menuitem" class="nav__link" href="#inicio">Inicio</a></li>
-          <li role="none"><a role="menuitem" class="nav__link" href="#noticias">Noticias</a></li>
-          <li role="none"><a role="menuitem" class="nav__link" href="#departamento">Departamento</a></li>
-          <li role="none"><a role="menuitem" class="nav__link" href="#staff">STAFF</a></li>
-          <li role="none"><a role="menuitem" class="nav__link" href="#carreras">Carreras</a></li>
-          <li role="none"><a role="menuitem" class="nav__link" href="#proyectos">Proyectos</a></li>
-          <li role="none"><a role="menuitem" class="nav__link" href="#investigacion">Investigación</a></li>
-          <li role="none"><a role="menuitem" class="nav__link" href="#eventos">Eventos</a></li>
-          <li role="none"><a role="menuitem" class="nav__link" href="#contacto">Contacto</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
-  <main id="contenido">
-    <section id="inicio" class="hero" data-module="modulos/hero.html" data-css="modulos/hero-style.css"></section>
-    <section id="noticias" data-module="modulos/noticias.html" data-css="modulos/noticias-style.css"></section>
-    <section id="departamento" data-module="modulos/departamento.html" data-css="modulos/departamento-style.css"></section>
-    <section id="staff" data-module="modulos/staff.html" data-css="modulos/staff-style.css"></section>
-    <section id="carreras" data-module="modulos/carreras.html" data-css="modulos/carreras-style.css"></section>
-    <section id="proyectos" data-module="modulos/proyectos.html" data-css="modulos/proyectos-style.css"></section>
-    <section id="investigacion" data-module="modulos/investigacion.html" data-css="modulos/investigacion-style.css"></section>
-    <section id="eventos" data-module="modulos/eventos.html" data-css="modulos/eventos-style.css"></section>
-    <section id="contacto" data-module="modulos/contacto.html" data-css="modulos/contacto-style.css"></section>
-  </main>
+    <script type="text/babel" data-presets="react,env" src="app.jsx"></script>
+    <script type="text/babel" data-presets="react,env" src="main.jsx"></script>
 
-  <footer>
-    <div class="container">
-      <small>© <span id="year"></span> Universidad Ejemplo. Todos los derechos reservados.</small>
-    </div>
-  </footer>
-</body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script type="text/babel" data-presets="react,env" src="modulos/noticias/noticias.jsx"></script>
+
+  </body>
 </html>
+
+
 
 
 

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "n20250905-ia",
+    "titulo": "Inauguración del Laboratorio de IA Aplicada",
+    "fecha": "2025-09-05",
+    "resumen": "Se abrió el nuevo laboratorio con equipamiento de última generación para proyectos de visión computacional y NLP.",
+    "texto": "La universidad inauguró el Laboratorio de IA Aplicada con la participación de autoridades, académicos y estudiantes. El espacio impulsará proyectos en visión computacional, procesamiento de lenguaje natural y robótica colaborativa, además de alianzas con la industria regional.",
+    "imagenes": ["prueba-imagen1.png", "prueba-imagen2.png"]
+  },
+  {
+    "id": "n20250902-becas",
+    "titulo": "Becas de Excelencia 2026: Postulaciones Abiertas",
+    "fecha": "2025-09-02",
+    "resumen": "Están disponibles beneficios para estudiantes nuevos y regulares con destacado rendimiento.",
+    "texto": "La Dirección de Asuntos Estudiantiles informó que ya están abiertas las postulaciones para becas de arancel, alimentación y residencia. Los y las postulantes deben completar el formulario en línea y adjuntar la documentación requerida antes del cierre.",
+    "imagenes": ["prueba-imagen1.png"]
+  },
+  {
+    "id": "n20250828-investigacion",
+    "titulo": "Semana de la Investigación: Charlas y Talleres",
+    "fecha": "2025-08-28",
+    "resumen": "Agenda con ponentes nacionales e internacionales, talleres y exposiciones abiertas a la comunidad.",
+    "texto": "Durante cinco días se realizarán actividades orientadas a fortalecer las capacidades investigativas, difundir resultados y promover redes de colaboración. Las inscripciones estarán disponibles en el sitio del evento.",
+    "imagenes": []
+  },
+  {
+    "id": "n20250815-convenio",
+    "titulo": "Convenio Internacional con Universidades Europeas",
+    "fecha": "2025-08-15",
+    "resumen": "Acuerdo de intercambio estudiantil y cooperación en investigación.",
+    "texto": "La Facultad firmó un convenio que permitirá movilidad semestral, cotutelas de tesis y proyectos conjuntos en sostenibilidad, energías renovables y transformación digital.",
+    "imagenes": []
+  },
+  {
+    "id": "n20250907-proyectos",
+    "titulo": "Fondo de Proyectos Estudiantiles 2025",
+    "fecha": "2025-09-07",
+    "resumen": "Se abre la convocatoria para iniciativas culturales, deportivas y de innovación social.",
+    "texto": "El Fondo de Proyectos Estudiantiles financiará iniciativas que impacten positivamente en la comunidad universitaria y el entorno. Las bases y el calendario se encuentran disponibles en la web de la DAE.",
+    "imagenes": []
+  },
+  {
+    "id": "n20250901-acreditacion",
+    "titulo": "Acreditación Institucional por 5 Años",
+    "fecha": "2025-09-01",
+    "resumen": "La institución renovó su acreditación en docencia de pregrado, investigación y vinculación con el medio.",
+    "texto": "La Comisión Nacional de Acreditación otorgó cinco años a la universidad, destacando la consolidación de su sistema de aseguramiento de la calidad y el fortalecimiento de sus políticas de investigación.",
+    "imagenes": []
+  },
+  {
+    "id": "n20250903-feria-laboral",
+    "titulo": "Feria Laboral 2025: Más de 60 Empresas",
+    "fecha": "2025-09-03",
+    "resumen": "Espacios de networking, talleres de empleabilidad y procesos de reclutamiento en vivo.",
+    "texto": "La Feria Laboral contará con stands, charlas y entrevistas para estudiantes y egresados. Habrá asesoría para la preparación de CV y simulaciones de entrevista.",
+    "imagenes": []
+  },
+  {
+    "id": "n20250830-hackaton",
+    "titulo": "Hackatón Regional de Innovación Pública",
+    "fecha": "2025-08-30",
+    "resumen": "Equipos multidisciplinarios desarrollarán prototipos para resolver desafíos de la región.",
+    "texto": "La hackatón reunirá a estudiantes de distintas carreras para idear, prototipar y presentar soluciones tecnológicas a problemáticas públicas. Se premiarán las mejores propuestas con mentorías y fondos semilla.",
+    "imagenes": []
+  }
+]
