@@ -1,46 +1,27 @@
-.nw-bs .card{border-radius:14px;box-shadow:0 6px 20px rgba(7, 47, 146, 0.08)}
-.nw-bs .thumb-portrait{width:100%;aspect-ratio:3/4;object-fit:cover;border-radius:10px;background:#31149c;display:block}
-@media (max-width:768px){.nw-bs .thumb-portrait{aspect-ratio:16/9}}
+/* Miniatura estándar (140x ~3:4 en desktop; 16:9 en móvil) */
+.nw-bs .thumb-portrait{
+  width:140px;
+  height:185px;
+  object-fit:cover;
+  border-radius:10px;
+  background:#e5e7eb;
+}
+@media (max-width:768px){
+  .nw-bs .thumb-portrait{width:100%; height:auto; aspect-ratio:16/9}
+}
 
-/* Texto: evitar que invada la imagen */
+/* Limita el stretched-link al bloque de texto */
 .nw-bs .card .position-relative{isolation:isolate}
 
-.nw-bs .news-summary{line-clamp: 3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-
-/* Controles circulares y azules del carrusel */
-.nw-bs .carousel{
-  --bs-carousel-control-color: #fff;
-  --bs-carousel-control-opacity: 1;
-  --bs-carousel-control-hover-opacity: 1;
-  --bs-carousel-control-icon-width: 1.25rem;
-}
-.nw-bs .carousel-control-prev,
-.nw-bs .carousel-control-next{
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 48px;          /* evita el 15% por defecto */
-  height: 48px;
-  background-color: #0a4d8c;
-  border-radius: 999px;
-  opacity: 1 !important;
-  display: grid;
-  place-items: center;
-  z-index: 3;
+/* Truncado del resumen a 3 líneas */
+.nw-bs .news-summary{
+  line-clamp:3;
+  -webkit-line-clamp:3;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
 }
 
-.nw-bs .carousel-control-prev{ left: 8px; }
-.nw-bs .carousel-control-next{ right: 8px; }
+/* (Opcional) Suaviza la tarjeta */
+.nw-bs .card{border-radius:14px; box-shadow:0 6px 20px rgba(7,47,146,.08)}
 
-
-/* Iconos totalmente visibles (sin invertir colores) */
-.nw-bs .carousel-control-prev-icon,
-.nw-bs .carousel-control-next-icon{
-  filter: none;
-  background-size: 60% 60%;
-}
-
-
-/* Galería dentro del modal: que las imágenes no se estiren */
-
-.nw-bs .modal .carousel-item img{width:100%;height:auto;display:block;border-radius:10px}
