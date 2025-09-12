@@ -2,7 +2,7 @@ const {useEffect,useRef,useState,useMemo}=React;
 
 const SECTIONS=[
   {id:"inicio",title:"Inicio",module:"modulos/hero.html",css:"modulos/hero-style.css"},
-  {id:"noticias",title:"Noticias",module:"modulos/noticias/noticias.html",css:"modulos/noticias-style.css"},
+  {id:"noticias",title:"Noticias",module:"modulos/noticias/noticias.html",css:"modulos/noticias/noticias-style.css"},
   {id:"departamento",title:"Departamento",module:"modulos/departamento.html",css:"modulos/departamento-style.css"},
   {id:"staff",title:"STAFF",module:"modulos/staff.html",css:"modulos/staff-style.css"},
   {id:"carreras",title:"Carreras",module:"modulos/carreras.html",css:"modulos/carreras-style.css"},
@@ -201,4 +201,5 @@ function calendarInit(root){
   render()
 }
 
+window.App = App;
 
