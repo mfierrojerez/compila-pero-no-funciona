@@ -1,1 +1,171 @@
-.cards .card p{margin:0}
+.investigacion-container {
+  max-width: 1120px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
+.section__header .eyebrow {
+  display: inline-block;
+  font-size: .83rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.section__header h2 {
+  margin: .3rem 0;
+}
+
+.section__header .lead {
+  color: var(--color-muted);
+  max-width: 70ch;
+}
+
+/* Tabs */
+.tabs {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.tabs input[type="radio"] {
+  display: none;
+}
+
+.tabs__btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: var(--color-primary);
+  color: #fff;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-right: 0.5rem;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.tabs__btn:hover {
+  background: var(--color-primary-600);
+  transform: translateY(-2px);
+}
+
+/* Paneles */
+.tabs__panel {
+  display: none;
+  margin-top: 1rem;
+  animation: fadeIn 0.3s ease-in;
+}
+
+#tab-publicaciones:checked ~ #panel-publicaciones,
+#tab-lineas:checked ~ #panel-lineas,
+#tab-proyectos:checked ~ #panel-proyectos {
+  display: block;
+}
+
+/* Grid cards */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+/* Diferenciar paneles */
+.panel-publicaciones .card {
+  border-left: 5px solid #0a4d8c;
+  background: linear-gradient(90deg, #f5f9ff, #ffffff);
+}
+.panel-lineas .card {
+  border-left: 5px solid #0d63b3;
+  background: linear-gradient(90deg, #eef4fb, #ffffff);
+}
+.panel-proyectos .card {
+  border-left: 5px solid #0f6ad8;
+  background: linear-gradient(90deg, #e8f0ff, #ffffff);
+}
+
+/* Cards */
+.tabs__panel .card {
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem;
+  transition: all 0.3s ease, transform 0.25s;
+  cursor: pointer;
+}
+
+.tabs__panel .card:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+}
+
+.tabs__panel .card h3 {
+  margin: 0 0 0.5rem 0;
+  color: var(--color-primary-600);
+  transition: color 0.2s;
+}
+
+.tabs__panel .card p {
+  margin: 0;
+  color: var(--color-text);
+}
+
+.tabs__panel .card a {
+  color: var(--color-primary);
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+
+.tabs__panel .card a:hover {
+  color: var(--color-primary-600);
+}
+
+@keyframes fadeIn {
+  from {opacity: 0; transform: translateY(5px);}
+  to {opacity: 1; transform: translateY(0);}
+}
+
+/* === NUEVO: estilos para los proyectos con imagen 150x150 === */
+.project-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* centra la imagen y contenido */
+  background: #fff;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  padding: 1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+}
+
+.project-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover; /* mantiene proporciones y corta si es necesario */
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.project-card .project-content {
+  text-align: center; /* centra texto */
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: var(--color-primary-600);
+}
+
+.project-card p {
+  margin: 0.5rem 0;
+  color: var(--color-text);
+}
+
+.project-card .academic {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-muted);
+}
