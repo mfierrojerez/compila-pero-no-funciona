@@ -1,0 +1,132 @@
+[
+  {
+    "id": "mduran",
+    "nombre": "Mario Durán Lillo",
+    "rol": "Académico Jornada Completa entre 1984 y 2019",
+    "formacion": [
+      "Ingeniero Civil, Universidad de Chile, 1971",
+      "Doctor Ingeniero, Universidad de Essen (Alemania), 1979"
+    ],
+    "asignaturas": "Mecánica I, Mecánica de Sólidos I y II, Análisis Estructural I, II y III, Ingeniería Antisísmica, Elementos Finitos.",
+    "imagen": "marioduran.jpg"
+  },
+  {
+    "id": "lalcayaga",
+    "nombre": "Luis Alcayaga Barraza",
+    "rol": "Académico Jornada Completa entre 1994 y 2019",
+    "formacion": [
+      "Ingeniero Civil, Universidad de Chile, 1975"
+    ],
+    "asignaturas": "Construcción I, Construcción de Puentes y Túneles, Diseño y Construcción de Puentes, Estabilidad I y II, Proyectos de Obras Civiles.",
+    "imagen": "luisalcayaga.jpg"
+  },
+  {
+    "id": "gllambias",
+    "nombre": "Gloria Llambias Abatte",
+    "rol": "Académico Jornada Completa entre ¿? y 2018",
+    "formacion": [
+      "Constructor Civil, Universidad Técnica del Estado, 1976.",
+      "Ingeniero Constructor, Universidad de La Serena."
+    ],
+    "asignaturas": "Construcción General, Edificación I, Urbanismo, Gestión Ambiental.",
+    "imagen": "gloriallambias.jpg"
+  },
+  {
+    "id": "maguilera",
+    "nombre": "Mario Aguilera Lanas"
+  },
+  {
+    "id": "jaguilera",
+    "nombre": "José Aguilera Muñoz",
+    "rol": "Académico Jornada Completa entre ¿? y 2018",
+    "asignaturas": "Mecánica I, Mecánica, Estructuras de Acero I y II."
+  },
+  {
+    "id": "maguirre",
+    "nombre": "Marcela Aguirre Salgado",
+    "rol": "Académico Jornada Completa entre 1978 y 2018",
+    "formacion": [
+      "Ingeniero Civil, Universidad de Chile, 1978",
+      "Doctor Ingeniero, Escuela de Caminos, Canales y Puertos, Universidad Politécnica de Madrid, España, 1990"
+    ],
+    "asignaturas": "Mecánica de Suelos I y II, Fundaciones"
+  },
+  {
+    "id": "varos",
+    "nombre": "Victor Aros Araya",
+    "rol": "Académico Jornada Completa entre 1996 y 2018",
+    "formacion": [
+      "Ingeniero Civil, Universidad de Chile, 1965"
+    ],
+    "asignaturas": "Hidráulica, Mecánica de Fluidos, Obras Hidráulicas, Aguas Subterráneas, Ingeniería Sanitaria."
+  },
+  {
+    "id": "jcanales",
+    "nombre": "José Canales Agurto",
+    "rol": "Académico Jornada Completa entre ¿? y ¿?",
+    "formacion": [
+      "Ingeniero Civil, Universidad de Chile, 1976."
+    ],
+    "asignaturas": "Caminos I."
+  },
+  {
+    "id": "mduhalde",
+    "nombre": "Maximiliano Duhalde Naim"  
+  },
+  {
+    "id": "gledezma",
+    "nombre": "Gustavo Ledezma Maturana"  
+  },
+  {
+    "id": "rsalgado",
+    "nombre": "Rubén Salgado Castro",
+    "rol": "Académico Jornada Completa entre ¿? y ¿?",
+    "formacion": [
+      "Ingeniero Civil, Universidad de Chile.",
+      "Doctor Ingeniero, Universidad de New Castle Upon-Tyne."
+    ],
+    "asignaturas": "Mecánica de Fluidos II, Ingeniería Sanitaria, Computación Aplicada a Ingeniería Civil."
+  },
+  {
+    "id": "asepulveda",
+    "nombre": "Augusto Sepúlveda Paul",
+    "rol": "Académico Jornada Completa entre ¿? y ¿?.",
+    "formacion": [
+      "Arquitecto, Universidad de Chile."
+    ],
+    "asignaturas": "Resistencia de Materiales, Geometría Descriptiva, Estabilidad, Dibujo Profesional, Construcción General, Urbanismo."
+  },
+  {
+    "id": "rseitz",
+    "nombre": "Ricardo Seitz Weiss"  
+  },
+  {
+    "id": "asepulveda",
+    "nombre": "Ramón Verdugo Alvarado",
+    "rol": "Académico Jornada Completa entre ¿? y ¿?.",
+    "formacion": [
+      "Ingeniero Civil, Pontificia Universidad Católica de Chile, 1983.",
+      "Doctor Ingeniero, Universidad de Tokio, 1992."
+    ]
+  },
+  {
+    "id": "amvillagran",
+    "nombre": "Ana María Villagrán Barrios",
+    "rol": "Académico Jornada Completa entre 1995 y 2018",
+    "formacion": [
+      "Constructor Civil, Universidad Técnica del Estado, 1978",
+      "Ingeniero Constructor, Universidad de La Serena, 1998"
+    ],
+    "asignaturas": "Planificación, Programación y Control de Obras, Instalaciones de Gas y Climáticas, Materiales de Construcción."
+  },
+  {
+    "id": "hzavala",
+    "nombre": "Humberto Zavala Zunino",
+    "rol": "Académico Jornada Completa entre 1989 y 2005",
+    "formacion": [
+      "Ingeniero Civil, Universidad de Chile, 1987",
+      "Master en Ingeniería, Universidad de Delft (Holanda), 1995"
+    ],
+    "asignaturas": "Hidráulica, Hidrología, Ingeniería Sanitaria, Mecánica de Fluidos, Computación Aplicada a la Ingeniería."
+  }
+]

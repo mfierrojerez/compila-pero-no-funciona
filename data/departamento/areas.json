@@ -1,0 +1,20 @@
+[
+  {
+    "id": "estructuras",
+    "titulo": "Área de Estructuras",
+    "descripcion": "En esta área se reúnen las actividades de docencia e investigación relativas al estudio de los esfuerzos, tensiones y deformaciones en modelos y elementos estructurales (tales como edificios, puentes, estructuras industriales, etc.), mecánica de suelos, dinámica de estructuras, diseño en acero, en hormigón armado y en madera, diseño de fundaciones, entre otras.",
+    "academicos": "Dr. Ing. Luis Díaz Zamora (Jefe Área de Estructuras), Dr. Ing. Jaime Campbell Barraza, Dr. Ing. Nibaldo Avilés Pizarro, Mg. Ing. Constr. Walter Mondaca Gálvez, Ing. Jaime Rodríguez Urquiza, Ing. Paulo Castillo Calderón."
+  },
+  {
+    "id": "hidraulica",
+    "titulo": "Área Hidráulica",
+    "descripcion": "Las actividades de docencia e investigación que comprende esta área son aquellas relativas al estudio de los fundamentos de la mecánica de fluidos y el estudio y diseño de obras hidráulicas y sanitarias tales como: canales, embalses, modelación hidrológica de cuencas, sistemas de producción y distribución de agua potable, sistemas de recolección y tratamiento de aguas servidas, diseño de instalaciones sanitarias domiciliarias, entre otras.",
+    "academicos": "Ing. Alan Olivares Gallardo (Jefe Área de Hidráulica), Ing. Edmundo González Ortuya."
+  },
+  {
+    "id": "construccion",
+    "titulo": "Área de Construcción",
+    "descripcion": "Esta área reúne las actividades de docencia e investigación relativas a obras de construcción tales como edificios, obras viales, puentes, obras hidráulicas, obras sanitarias, entre otras, orientado a la planificación, administración, ejecución y control de este tipo de obras.",
+    "academicos": "Dr. Armando Mansilla Sunkel, Mg. Ing. Constr. Walter Mondaca Gálvez, Mg. Ing. Constr. Rodrigo Olivares Pérez, Ing. Rodrigo Guerra Rojas."
+  }
+]

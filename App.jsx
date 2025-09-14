@@ -1,15 +1,15 @@
 const {useEffect,useRef,useState,useMemo}=React;
 
 const SECTIONS=[
-  {id:"inicio",title:"Inicio",module:"modulos/hero.html",css:"modulos/hero-style.css"},
+  {id:"inicio",title:"Inicio",module:"modulos/hero/hero.html",css:"modulos/hero/hero-style.css"},
   {id:"noticias",title:"Noticias",module:"modulos/noticias/noticias.html",css:"modulos/noticias/noticias-style.css"},
-  {id:"departamento",title:"Departamento",module:"modulos/departamento.html",css:"modulos/departamento-style.css"},
-  {id:"staff",title:"STAFF",module:"modulos/staff.html",css:"modulos/staff-style.css"},
+  {id:"departamento",title:"Departamento",module:"modulos/departamento/departamento.html",css:"modulos/departamento/departamento-style.css"},
+  {id:"staff",title:"STAFF",module:"modulos/staff/staff.html",css:"modulos/staff/staff-style.css"},
   {id:"carreras",title:"Carreras",module:"modulos/carreras.html",css:"modulos/carreras-style.css"},
   {id:"proyectos",title:"Proyectos",module:"modulos/proyectos.html",css:"modulos/proyectos-style.css"},
   {id:"investigacion",title:"Investigación",module:"modulos/investigacion.html",css:"modulos/investigacion-style.css"},
   {id:"eventos",title:"Eventos",module:"modulos/eventos.html",css:"modulos/eventos-style.css"},
-  {id:"contacto",title:"Contacto",module:"modulos/contacto.html",css:"modulos/contacto-style.css"}
+  {id:"contacto",title:"Contacto",module:"modulos/contacto/contacto.html",css:"modulos/contacto/contacto-style.css"}
 ];
 
 function SectionLoader({moduleUrl,cssUrl,sectionId}){
@@ -58,8 +58,11 @@ function App(){
       <header ref={headerRef} className="sticky-top bg-white bg-opacity-90 border-bottom" style={{backdropFilter:"saturate(140%) blur(8px)"}}>
         <nav className="navbar navbar-expand-lg container py-2">
           <a className="navbar-brand fw-bold d-flex align-items-center gap-2" href="#inicio">
-            <span className="brand__logo text-white d-inline-grid place-items-center">U</span>
-            <span>Universidad Ejemplo</span>
+            <img src="data/logo.png" alt="Universidad" className="brand__img" />
+            <div className="d-flex flex-column lh-1">
+              <span className="fw-bold">DEPARTAMENTO OBRAS CIVILES ULS</span>
+              <small className="text-muted">UNIVERSIDAD DE LA SERENA</small>
+            </div>
           </a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Menu">≡</button>
           <div className="collapse navbar-collapse" id="main-nav">
@@ -86,23 +89,45 @@ function App(){
 
       <footer className="bg-dark text-light py-4 mt-4">
         <div className="container">
-          <small>© <span>{new Date().getFullYear()}</span> Universidad Ejemplo. Todos los derechos reservados.</small>
+          <small>© <span>{new Date().getFullYear()}</span> Mesa Central Universidad de La Serena - Universidad de La Serena - Teléfono: 51 2 204000 - Dirigir su consulta al siguiente correo electrónico institucional de contacto consultas@userena.cl</small>
         </div>
       </footer>
     </>
   )
 }
 
-function initSection(id,root){
-  if(id==="noticias"){
-    const host=root.querySelector("[data-noticias-root]");
-    if(window.mountNoticias&&host) window.mountNoticias(host);
+function initSection(id, root){
+  if(id==="inicio"){
+    const host = root.querySelector("[data-hero-root]");
+    if (window.mountHero && host) window.mountHero(host);
+    return;
   }
-  if(id==="departamento"){const t=root.querySelector(".tabs");if(t)tabsInit(t)}
-  if(id==="carreras"){const t=root.querySelector(".tabs");if(t)tabsInit(t)}
-  if(id==="staff"){const t=root.querySelector(".tabs");if(t)tabsInit(t);root.querySelectorAll(".slider").forEach(s=>sliderInit(s))}
-  if(id==="eventos"){const cal=root.querySelector(".calendar");if(cal)calendarInit(cal)}
-  if(id==="contacto"){const f=root.querySelector("#form-contacto");const m=root.querySelector("#form-msg");if(f&&m)f.addEventListener("submit",e=>{e.preventDefault();if(!f.checkValidity()){f.reportValidity();m.textContent="Por favor completa los campos requeridos.";return}m.textContent="Gracias, responderemos pronto.";f.reset()})}
+
+  if(id==="noticias"){
+    const host = root.querySelector("[data-noticias-root]");
+    if (window.mountNoticias && host) window.mountNoticias(host);
+    return;
+  }
+
+  if(id==="staff"){
+    const host = root.querySelector("[data-staff-root]");
+    if (window.mountStaff && host) window.mountStaff(host);
+    return; // evita que corra tabs/slider legacy
+  }
+
+  if(id==="departamento"){
+    const host = root.querySelector("[data-departamento-root]");
+    if (window.mountDepartamento && host) window.mountDepartamento(host);
+    return; // evita que corra tabs/slider legacy
+  }
+
+  if(id==="carreras"){ const t=root.querySelector(".tabs"); if(t) tabsInit(t) }
+  if(id==="eventos"){ const cal=root.querySelector(".calendar"); if(cal) calendarInit(cal) }
+  if(id==="contacto"){
+    const host = root.querySelector("[data-contacto-root]");
+    if (window.mountContacto && host) window.mountContacto(host);
+    return;
+}
 }
 
 function sliderInit(root){

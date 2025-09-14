@@ -1,0 +1,59 @@
+[
+  {
+    "id": "01",
+    "titulo": "Ingeniería Sísmica en la Universidad de La Serena",
+    "fecha": "2023-10-05",
+    "resumen": "Profesor Mario Durán, Universidad de La Serena",
+    "texto": "Publicación realizada por el docente Mario Durán en la revista ACHISINA, vol 3, edición octubre de 2023.  https://publuu.com/flip-book/270208/638218/page/22",
+    "imagenes": ["noticias1.jpg"]
+  },
+  {
+    "id": "02",
+    "titulo": "Centro de Estudiantes en Actividades de Semana Papayo",
+    "fecha": "2022-10-05",
+    "resumen": "Se dio por finalizada las actividades de la semana papayo con una gran jornada organizada por el CEC de las carreras de Ingeniería Civil e Ingeniería en Construcción y por la Dirección General de Asuntos Estudiantles.",
+    "texto": " ",
+    "imagenes": ["noticias2-1.jpg","noticias2-2.jpg","noticias2-3.jpg","noticias2-4.jpg","noticias2-5.jpg","noticias2-6.jpg","noticias2-7.jpg","noticias2-8.jpg","noticias2-9.jpg","noticias2-10.jpg","noticias2-11.jpg"]
+  },
+  {
+    "id": "03",
+    "titulo": "Los ingenieros estructurales se ponen al día en la actual gestión de riesgos de desastres en Chile",
+    "fecha": "2022-10-05",
+    "resumen": "Con la participación del Dr.-Ing. Jaime Campbell B. (Director del Departamento de Obras Civiles), el Dr. Ing. Luis Díaz Z., el Ing. Paulo Castillo C. y el Ing. Jaime Rodríguez U., se llevó a cabo el 15° Congreso Anual de la AICE, en Coquimbo.",
+    "texto": "Se reunieron socios, estudiantes y profesionales afines, para actualizar los conocimientos técnicos e institucionales en torno al manejo de desastres y los cambios que se vienen para la disciplina. En la misma instancia, se entregó el premio Ingeniero del Año 2022 Fuente: AICE / Imagen y texto: AICE",
+    "imagenes": ["noticias3.jpg"]
+  },
+  {
+    "id": "04",
+    "titulo": "Lanzamiento del Libro «Análisis Matricial de Estructuras»",
+    "fecha": "2023-10-05",
+    "resumen": "Con gran emotividad y con la presencia de autoridades, directivos, académicos, titulados y estudiantes de la institución e invitados especiales, se efectuó el lanzamiento del libro “Análisis Matricial de Estructuras”, del Dr. Ing. Mario Durán Lillo, ex Decano de la Facultad de Ingeniería de la casa de estudios. El docente estuvo dictando por más de 35 años las asignaturas de Análisis Estructural I y II de la carrera de Ingeniería Civil, cuyos apuntes decidió plasmar en un libro y entregarlo como un gran legado.",
+    "texto": "Fuente: www.userena.cl / Imagen y texto: María José Barraza, Proyecto FIULS 2030",
+    "imagenes": ["noticias4.jpg"]
+  },
+  {
+    "id": "05",
+    "titulo": "Despedida Docentes",
+    "fecha": "2023-10-05",
+    "resumen": "Desde mediados de Julio de este año, los académicos del Departamento de Ingeniería en Obras Civiles Dr.-Ing. Mario Durán Lillo e Ing. Luis Alcayaga Barraza se han acogido a retiro voluntario.",
+    "texto": "El Profesor Durán fue Director de Departamento, Decano de la Facultad y destacado profesor del Área de Estructuras. Por su parte, el Profesor Alcayaga fue un destacado profesor del Área de Construcción, además de Secretario Ejecutivo de la Fundación INVECC.",
+    "imagenes": ["noticias5.jpg"]
+  },
+  {
+    "id": "06",
+    "titulo": "Lanzamiento del Comité Regional del Manual de Carreteras",
+    "fecha": "2023-10-05",
+    "resumen": "El día 29 de Mayo pasado, en dependencias del Ministerio de Obras Públicas Región de Coquimbo, se realizó el lanzamiento del Comité Regional del Manual de Carreteras.",
+    "texto": "En esta instancia participan representantes del ámbito de la administración pública, entes privados y representantes del mundo académico. Entre estos últimos se encuentra el académico de nuestro Departamento Ingeniero Rodrigo Guerra Rojas, quien en la oportunidad expuso sobre modelación y diseño de pavimentos y además participó de un foro de discusión. Finalmente, el Profesor Guerra junto a los demás representantes firmaron el acta de constitución del Comité Regional del Manual de Carreteras.",
+    "imagenes": ["noticias6-1.jpg","noticias6-2.jpg","noticias6-3.jpg","noticias6-4.jpg","noticias6-5.jpg","noticias6-6.jpg","noticias6-7.jpg","noticias6-8.jpg","noticias6-9.jpg","noticias6-10.jpg"]
+  },
+  {
+    "id": "07",
+    "titulo": "Conmemoración Día del Ingeniero en la FIULS",
+    "fecha": "2023-10-05",
+    "resumen": "El día 14 de mayo, en dependencias del Centro Tecnológico de la Facultad de Ingeniería, se llevó a cabo la conmemoración del Día del Ingeniero.",
+    "texto": "Esta actividad contó con la presencia del Decano de nuestra Facultad Dr. Ing. Mauricio Godoy Seura, el Vice-Rector de Asuntos Económicos y Administrativos Dr. Armando Mansilla Sunkel, el Presidente Regional del Colegio de Ingenieros Ing. Raúl Vergara Contreras, el Jefe de Recursos Físicos del Servicio de Salud Coquimbo Sr. Hernán Elgueta Velásquez, la Encargada de Gestión del Cuidado Hospital Digital Servicio de Salud Coquimbo Sra. Nayarett Miranda Alcozer, otros representantes de instituciones locales, además de Directores, Académicos y Estudiantes de nuestra Facultad.",
+    "imagenes": ["noticias7-1.jpg","noticias7-2.jpg","noticias7-3.jpg","noticias7-4.jpg","noticias7-5.jpg","noticias7-6.jpg","noticias7-7.jpg"]
+  }
+  
+]

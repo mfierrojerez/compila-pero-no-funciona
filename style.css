@@ -27,3 +27,18 @@ main section{scroll-margin-top:calc(var(--header-h) + 18px)}
 .staff-list li::before{content:"";position:absolute;left:0;top:.65em;width:.45em;height:.45em;background:rgba(15,23,42,.35);border-radius:2px;transform:translateY(-50%)}
 .staff-contact a{text-decoration:underline}
 @media (max-width:960px){.staff-panel{grid-template-columns:1fr}}
+
+.brand__img{
+  height: 32px;
+  width: auto;
+  display: block;
+}
+@media (min-width: 992px){
+  .brand__img{ height: 40px; }
+}
+
+.brand__img{ height:32px; width:auto; display:block; }
+@media (min-width:992px){ .brand__img{ height:40px; } }
+
+/* (opcional) ajusta la separación vertical si quieres aún más compacto */
+.navbar .lh-1 { line-height:1.05; }

@@ -1,0 +1,11 @@
+.nw-bs .card{border-radius:14px;box-shadow:0 6px 20px rgba(7,47,146,.08)}
+@media (min-width:768px){
+  .nw-bs .thumb-portrait{width:120px;height:160px;object-fit:cover;background:#e5e7eb;display:block}
+}
+@media (max-width:767.98px){
+  .nw-bs .thumb-portrait{width:100%;aspect-ratio:16/9;object-fit:cover;background:#e5e7eb;display:block}
+}
+.nw-bs .btn-outline-dark{--bs-btn-color:#111827;--bs-btn-border-color:#e5e7eb;--bs-btn-hover-bg:#f3f4f6;--bs-btn-hover-border-color:#e5e7eb;border-radius:12px}
+.nw-bs .btn-primary{border-radius:12px}
+.nw-bs .modal .carousel-item img{width:100%;height:auto;display:block;border-radius:10px}
+

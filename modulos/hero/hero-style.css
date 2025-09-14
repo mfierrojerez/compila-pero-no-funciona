@@ -1,0 +1,13 @@
+.hero-img{
+  width: 100%;
+  height: auto;          /* conserva proporción natural */
+  object-fit: contain;   /* nunca recorta */
+  display: block;
+  border-radius: .75rem;
+}
+
+/* Opcional: limita la altura en pantallas grandes sin recortar */
+@media (min-width: 992px){
+  .hero-img{ max-height: 70vh; }  /* grande pero sin cortar */
+}
+

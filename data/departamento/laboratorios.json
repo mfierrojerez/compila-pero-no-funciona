@@ -1,0 +1,45 @@
+[
+  {
+    "id": "hidraulica",
+    "titulo": "Laboratorio Hidráulica",
+    "parrafos": [
+      "El Laboratorio de Hidráulica es el centro de las actividades experimentales de las distintas asignaturas del área, como Mecánica de Fluidos, Hidráulica, Hidrología, Instalaciones Sanitarias, entre otras. Junto con las actividades propias de la docencia, se desarrollan trabajos de investigación y de titulación para las carreras de Ingeniería Civil e Ingeniería en Construcción.",
+      "El laboratorio tiene una superficie de 125 m2 y dispone de equipamiento para las distintas experiencias consideradas en los planes de estudio, entre las que se encuentran: canal hidráulico, panel de demostración de principios de hidráulica, banco de prueba de pérdida de carga en tuberías, banco de demostración para hidrología, banco de demostración para permeabilidad, modelo de demostración de la turbina Pelton y panel demostrativo de instalaciones sanitarias."
+    ],
+    "jefe": "Ing. Alan Olivares Gallardo",
+    "encargado": "Sr. Patricio Aguirre Hidalgo",
+    "imagen": "lab-hidraulica.jpg"
+  },
+  {
+    "id": "resistencia",
+    "titulo": "Laboratorio de Resistencia de Materiales y Estructuras",
+    "parrafos": [
+      "El Laboratorio de Resistencia de Materiales y Estructuras es el centro de las actividades experimentales de las distintas asignaturas de las áreas de Estructuras y de Construcción, como Ingeniería y Tecnología de Materiales, Tecnología del Hormigón y del Mortero, Hormigón Armado, Estructuras de Acero y Madera, entre otras. Junto con las actividades propias de la docencia, se desarrollan trabajos de investigación y de titulación para las carreras de Ingeniería Civil e Ingeniería en Construcción.",
+      "El laboratorio tiene una superficie de 340 m2 y dispone de equipamiento para las distintas experiencias consideradas en los planes de estudio, entre las que se encuentran: Marco de reacción con actuador dinámico de doble acción, marco de reacción pequeño para cargas estáticas, Máquina Universal, máquinas de compresión y flexotracción, equipamiento menor para ensayos de hormigones y morteros, entre otros."
+    ],
+    "jefe": "Ing. Constr. Walter Mondaca Gálvez",
+    "encargado": "Sr. Pedro Cuadra Rojas",
+    "imagen": "lab-resistencia.jpg"
+  },
+  {
+    "id": "suelos",
+    "titulo": "Laboratorio de Mecánica de Suelos",
+    "parrafos": [
+      "El Laboratorio de Mecánica de Suelos es el centro de las actividades experimentales de las distintas asignaturas del área de Estructuras afines, como Introducción a la Mecánica de Suelos, Fundamentos de Geotecnia, Mecánica de Suelos y Fundaciones, Proyecto de Fundaciones, entre otras. Junto con las actividades propias de la docencia, se desarrollan trabajos de investigación y de titulación para las carreras de Ingeniería Civil e Ingeniería en Construcción.",
+      "El laboratorio tiene una superficie de 162 m2 y dispone de equipamiento para las distintas experiencias consideradas en los planes de estudio, entre las que se encuentran: marco de corte directo gigante, máquina de compresión triaxial, máquina de corte directo estándar, máquina de compresión simple, mesa vibradora para densidades máxima y mínima, equipo de consolidación, equipamiento menor para ensayos de clasificación de suelos, entre otros."
+    ],
+    "jefe": "Ing. Constr. Walter Mondaca Gálvez",
+    "encargado": "Sr. Germán Kong Escarra",
+    "imagen": "lab-suelos.jpg"
+  },
+  {
+    "id": "computacion",
+    "titulo": "Laboratorio de Computación",
+    "parrafos": [
+      "El Laboratorio de Computación es el espacio físico en el cual los estudiantes aplican y utilizan las nuevas tecnologías de soporte para sus clases, como SAP2000, Introducción a BIM y Herramientas CAD aplicadas a Obras Civiles. También se utiliza para los laboratorios propios de cada una de las actividades nombradas anteriormente.",
+      "El laboratorio cuenta con el software necesario para la realización de las clases y conexión a internet para estudiantes y docentes, para uso exclusivamente académico.",
+      "Superficie aproximada: 84 m2."
+    ],
+    "encargado": "Ing. Informático Felipe Vargas Virgilio"
+  }
+]

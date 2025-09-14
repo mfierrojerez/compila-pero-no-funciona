@@ -6,6 +6,15 @@
   border-radius:10px;
   background:#e5e7eb;
 }
+
+.nw-bs .modal .carousel-item img{
+  width:auto;                /* no llenar todo el ancho */
+  max-width:640px;           /* limita el ancho máximo */
+  max-height:60vh;           /* y también la altura en función de la pantalla */
+  object-fit:contain;        /* que no se deforme ni recorte */
+  border-radius:10px;
+}
+
 @media (max-width:768px){
   .nw-bs .thumb-portrait{width:100%; height:auto; aspect-ratio:16/9}
 }

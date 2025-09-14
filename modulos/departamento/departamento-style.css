@@ -1,0 +1,14 @@
+.mod-depto .depto-thumb{
+  aspect-ratio: 4/3;       /* mantiene proporción */
+  object-fit: cover;       /* recorte elegante */
+  border-radius: 10px;
+}
+
+.mod-depto .lab-thumb{
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.mod-depto .card{ border-radius:14px; box-shadow:0 6px 20px rgba(7,47,146,.08); }
+

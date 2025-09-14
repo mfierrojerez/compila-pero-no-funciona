@@ -1,0 +1,32 @@
+[
+  {
+    "id": "manuel-cerda",
+    "nombre": "Manuel Cerda Campaña",
+    "semestre": "Semestre Otoño 2024",
+    "asignaturas": ["Estructuras de Acero y Madera"]
+  },
+  {
+    "id": "luis-paz",
+    "nombre": "Luis Paz Rivera",
+    "semestre": "Semestre Otoño 2024",
+    "asignaturas": ["Proyectos Eléctricos"]
+  },
+  {
+    "id": "nelson-montero",
+    "nombre": "Nelson Montero Pizarro",
+    "semestre": "Semestre Otoño 2023",
+    "asignaturas": ["Administración de Obras","Gestión Ambiental","Tecnología del Hormigón"]
+  },
+  {
+    "id": "jose-canales",
+    "nombre": "José Canales Agurto",
+    "semestre": "Semestre Otoño 2024",
+    "asignaturas": ["Caminos I"]
+  },
+  {
+    "id": "felipe-vargas",
+    "nombre": "Felipe Vargas Virgilio",
+    "semestre": "Semestre Otoño 2024",
+    "asignaturas": ["Computación Aplicada"]
+  }
+]

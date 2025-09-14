@@ -1,0 +1,190 @@
+[
+  {
+    "id": "jcbarraz",
+    "nombre": "Jaime Campbell Barraza",
+    "cargo": "Director de Departamento",
+    "correo": "jcampbel@uni.cl",
+    "imagen": "jaimecampbell.jpg",
+    "formacion": [
+      "Licenciado en Ciencias de la Ingeniería, Universidad de La Serena, 1996",
+      "Ingeniero Civil, Universidad de La Serena, 1996",
+      "Master, Universidad Politécnica de Cataluña (Barcelona, España), 2007",
+      "Doctor Ingeniero, Universidad RWTH (Aachen, Alemania), 2012"
+    ],
+    "investigacion": [
+      "Análisis Sísmico de Estructuras",
+      "Análisis no-lineal de Estructuras",
+      "Análisis Experimental de Estructuras",
+      "Estructuras de Albañilería"
+    ],
+    "asignaturas": [
+      "Dinámica de Estructuras",
+      "Fundamentos de Análisis Estructural",
+      "Ingeniería Antisísmica"
+    ]
+  },
+  {
+    "id": "pcastillo",
+    "nombre": "Paulo Castillo Calderón",
+    "correo": "pcastillo@userena.cl",
+    "imagen": "paulocastillo.jpg",
+    "formacion": [
+      "Licenciado en Ciencias de la Ingeniería, Universidad de La Serena, 2015",
+      "Ingeniero Civil, Universidad de La Serena, 2015"
+    ],
+    "investigacion": [
+      "Análisis Estructural",
+      "Modelación Computacional de Estructuras",
+      "Estructuras de Acero"
+    ],
+    "asignaturas": [
+      "Análisis Estructural Clásico",
+      "Análisis Matricial de Estructuras",
+      "Estructuras de Aceros II",
+      "Mecánica de Sólidos",
+      "Mecánica Estática",
+      "Proyecto de Título II"
+    ]
+  },
+  {
+    "id": "mcolque",
+    "nombre": "Miguel Colque González",
+    "correo": "miguel.colque@userena.cl",
+    "imagen": "miguelcolque.jpg",
+    "formacion": [
+      "Ingeniero Civil, Universidad de La Serena, 2023"
+    ],
+    "investigacion": [
+      "Estructuras de Hormigón Armado",
+      "Modelación de Estructuras a través de la Utilización de Software",
+      "Análisis no-lineal de Muros Sísmicos"
+    ],
+    "asignaturas": [
+      "Hormigón Armado",
+      "Hormigón Armado II",
+      "Mecánica de Sólidos",
+      "Mecánica Estática"
+    ]
+  },
+  {
+    "id": "rconcha",
+    "nombre": "Rodrigo Concha Jopia",
+    "correo": "rodrigo.conchaj@userena.cl",
+    "imagen": "rodrigoconcha.jpg",
+    "formacion": [
+      "Ingeniero Civil, Universidad de La Serena, 2001",
+      "Master of Science (MSc) in Hydro-Informatics and Water Management. Universitè de Nice-Sophia Antipolis, Francia, 2006"
+    ],
+    "investigacion": [
+      "Modelos de transformación lluvia-escorrentía en drenaje urbano",
+      "Hidráulica de sistemas de evacuación de aguas lluvia",
+      "Riesgo asociado a eventos de anegamientos o inundación en zonas urbanas",
+      "Hidráulica de sistemas de recolección de alcantarillado sanitario",
+      "Sistemas de control operacional aplicado a esquemas de desagüe vía estaciones de bombeo"
+    ],
+    "asignaturas": [
+      "Hidráulica",
+      "Introducción a la Ingeniería Civil",
+      "Mecánica de Fluidos Aplicada",
+      "Proyecto de Título II"
+    ]
+  },
+  {
+    "id": "egonzales",
+    "nombre": "Edmundo González Ortuya",
+    "cargo": "Jefe Área Hidráulica",
+    "correo": "egonzal@userena.cl",
+    "imagen": "edmundogonzales.jpg",
+    "formacion": [
+      "Licenciado en Ciencias de la Ingeniería, Universidad de La Serena, 1991",
+      "Ingeniero Civil, Universidad de La Serena, 1991"
+    ],
+    "investigacion": [
+      "Hidrología y Transporte de Sedimentos",
+      "Sistemas de Modelación Hidrológica",
+      "Cambio Climático – Métodos Numéricos"
+    ],
+    "asignaturas": [
+      "Hidrología",
+      "Mecánica de los Fluidos",
+      "Modelación Integrada de Recursos Hídricos",
+      "Seminario de Ingeniería I"
+    ]
+  },
+  {
+    "id": "rguerra",
+    "nombre": "Rodrigo Guerra Rojas",
+    "cargo": "Jefe Área Construcción",
+    "correo": "rguerra@userena.cl",
+    "imagen": "rodrigoguerra.jpg",
+    "formacion": [
+      "Licenciado en Ciencias de la Ingeniería, Universidad de La Serena, 1996",
+      "Ingeniero Civil, Universidad de La Serena, 1996"
+    ],
+    "investigacion": [
+      "Modelación Computacional y Diseño de Pavimentos",
+      "Estudios de Corrosión en Materiales de Ingeniería",
+      "Modelación y Simulación de Celdas Solares"
+    ],
+    "asignaturas": [
+      "Diseño y Construcción de Obras de Pavimentación para Loteos",
+      "Ingeniería de Materiales",
+      "Introducción a la Ingeniería Civil",
+      "Métodos Constructivos",
+      "Proyecto de Título II"
+    ]
+  },
+  {
+    "id": "llemus",
+    "nombre": "Luis Lemus Mondaca",
+    "correo": "llemus@userena.cl",
+    "imagen": "luislemus.jpg",
+    "formacion": [
+      "Ingeniero Civil, Universidad de La Serena, 2010",
+      "Diplomado en Mecánica de Suelos y Geotecnia Aplicada, Universidad de Chile, 2011",
+      "Curso Internacional de Geotecnia Computacional, Pontificia Universidad Católica de Chile, 2012",
+      "Magíster en Mecánica Computacional, Universidad de La Serena, 2017",
+      "Doctor(c) en Ing. Geotécnica, Universidad Politécnica de Cataluña, 2018-2024"
+    ],
+    "investigacion": [
+      "Modelación computacional de problemas geotécnicos con grandes deformaciones",
+      "Formulación Termo-Hidro-Mecánica en deslizamientos rápidos",
+      "Estabilidad física de depósitos de residuos masivos mineros",
+      "Modelación computacional de fallas en depósitos de relaves",
+      "Análisis estocástico en ingeniería geotécnica"
+    ],
+    "asignaturas": [
+      "Aplicaciones Computacionales en Geotecnia",
+      "Fundamentos de Geotecnia",
+      "Mecánica de Suelos II",
+      "Proyecto de Fundaciones",
+      "Proyecto de Título II"
+    ]
+  },
+  {
+    "id": "mvigorena",
+    "nombre": "Mónica Vigorena Herrera",
+    "correo": "monica.vigorena@userena.cl",
+    "imagen": "monicavigorena.jpg",
+    "formacion": [
+      "Ingeniero Constructor, Universidad de La Serena, 2010",
+      "Ingeniero Civil Industrial, Universidad del Mar, 2013",
+      "Diplomado en Herramientas de Coaching en las Organizaciones, Pontífice Universidad Católica de Chile, 2021",
+      "Diplomado Planificación y Control de Costos, Pontífice Universidad Católica de Chile, 2019",
+      "Técnica de Inspección de Obras de Construcción M.I.T.O, Universidad de La Serena",
+      "Diseño, Implementación y Aplicación de Planes de Aseguramiento de la Calidad para Proyectos de Construcción, PAC"
+    ],
+    "investigacion": [
+      "Planificación, Programación y Control de Obras",
+      "Administración y evaluación de proyectos de construcción",
+      "Gestión de proyectos",
+      "Coaching Organizacional"
+    ],
+    "asignaturas": [
+      "Administración de Proyectos",
+      "Liderazgo y Organización",
+      "Proyecto de Construcción",
+      "Proyecto de Título I"
+    ]
+  }
+]

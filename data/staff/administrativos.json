@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fvargas",
+    "nombre": "Felipe Vargas Virgilio",
+    "cargo": "Encargado de Soporte Computacional e Informática",
+    "ubicacion": "Benavente 980, tercer piso, Departamento de Ingeniería en Obras Civiles",
+    "fono": "+51 2 204568",
+    "correo": "fivargas@userena.cl",
+    "imagen": "felipeVargas.jpg"
+  },
+  {
+    "id": "gkong",
+    "nombre": "Germán Kong Escarrá",
+    "cargo": "Encargado Laboratorio de Mecánica de Suelos",
+    "ubicacion": "Benavente 980, Laboratorio de Mecánica de Suelos",
+    "fono": "+51 2 204288",
+    "correo": "gkong@userena.cl",
+    "imagen": "germankong.jpg"
+  },
+  {
+    "id": "laguirre",
+    "nombre": "Luis Aguirre Hidalgo",
+    "cargo": "Encargado Laboratorio de Hidráulica",
+    "ubicacion": "Benavente 980, Laboratorio de Hidráulica",
+    "fono": "+51 2 204224",
+    "correo": "lhidalgo@userena.cl",
+    "imagen": "luisaguirre.jpg"
+  }
+]
