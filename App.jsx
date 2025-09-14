@@ -122,12 +122,18 @@ function initSection(id, root){
   }
 
   if(id==="carreras"){ const t=root.querySelector(".tabs"); if(t) tabsInit(t) }
+
+  if(id === "proyectos") {
+    const cont = root.querySelector("#proyectos-slide");
+    if(cont && window.mountProyectos) window.mountProyectos(cont);
+  }
+
   if(id==="eventos"){ const cal=root.querySelector(".calendar"); if(cal) calendarInit(cal) }
   if(id==="contacto"){
     const host = root.querySelector("[data-contacto-root]");
     if (window.mountContacto && host) window.mountContacto(host);
     return;
-}
+  }
 }
 
 function sliderInit(root){
