@@ -60,7 +60,7 @@ function App(){
           <a className="navbar-brand fw-bold d-flex align-items-center gap-2" href="#inicio">
             <img src="data/logo.png" alt="Universidad" className="brand__img" />
             <div className="d-flex flex-column lh-1">
-              <span className="fw-bold">DEPARTAMENTO OBRAS CIVILES ULS</span>
+              <span className="fw-bold">DEPARTAMENTO OBRAS CIVILES</span>
               <small className="text-muted">UNIVERSIDAD DE LA SERENA</small>
             </div>
           </a>
