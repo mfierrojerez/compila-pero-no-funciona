@@ -6,7 +6,7 @@ const SECTIONS=[
   {id:"departamento",title:"Departamento",module:"modulos/departamento.html",css:"modulos/departamento-style.css"},
   {id:"staff",title:"STAFF",module:"modulos/staff.html",css:"modulos/staff-style.css"},
   {id:"carreras",title:"Carreras",module:"modulos/carreras.html",css:"modulos/carreras-style.css"},
-  {id:"proyectos",title:"Proyectos",module:"modulos/proyectos.html",css:"modulos/proyectos-style.css"},
+  {id:"proyectos",title:"Proyectos",module:"modulos/proyectos/proyectos.html",css:"modulos/proyectos/proyectos-style.css"},
   {id:"investigacion",title:"Investigación",module:"modulos/investigacion.html",css:"modulos/investigacion-style.css"},
   {id:"eventos",title:"Eventos",module:"modulos/eventos.html",css:"modulos/eventos-style.css"},
   {id:"contacto",title:"Contacto",module:"modulos/contacto.html",css:"modulos/contacto-style.css"}
@@ -101,6 +101,10 @@ function initSection(id,root){
   if(id==="departamento"){const t=root.querySelector(".tabs");if(t)tabsInit(t)}
   if(id==="carreras"){const t=root.querySelector(".tabs");if(t)tabsInit(t)}
   if(id==="staff"){const t=root.querySelector(".tabs");if(t)tabsInit(t);root.querySelectorAll(".slider").forEach(s=>sliderInit(s))}
+  if(id === "proyectos") {
+    const cont = root.querySelector("#proyectos-slide");
+    if(cont && window.mountProyectos) window.mountProyectos(cont);
+  }
   if(id==="eventos"){const cal=root.querySelector(".calendar");if(cal)calendarInit(cal)}
   if(id==="contacto"){const f=root.querySelector("#form-contacto");const m=root.querySelector("#form-msg");if(f&&m)f.addEventListener("submit",e=>{e.preventDefault();if(!f.checkValidity()){f.reportValidity();m.textContent="Por favor completa los campos requeridos.";return}m.textContent="Gracias, responderemos pronto.";f.reset()})}
 }

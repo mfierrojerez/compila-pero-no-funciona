@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Proyecto Centro Tecnológico para la Innovación en la Construcción – CTeC",
+    "resumen": "Centro tecnológico impulsado por Corfo, difusor de tecnologías disruptivas e innovación abierta.",
+    "texto": "El Centro Tecnológico para la Innovación en la Construcción “CTeC” es un proyecto impulsado por el “Programa de Fortalecimiento y Creación de Capacidades Tecnológicas Habilitantes para la Innovación” de CORFO.\n\nEste proyecto es liderado por la Universidad de Chile asociado con las Universidades de Antofagasta, de La Serena, de Santiago de Chile, Tecnológica de Chile INACAP, de Concepción y de la Frontera y su objetivo es contribuir al proceso de transformación de la industria de la construcción a nivel nacional.",
+    "imagen": "CTeC-1.jpg",
+    "link": "https://ctecinnovacion.cl/"
+  },
+  {
+    "id": 2,
+    "titulo": "FIULS2030",
+    "resumen": "Programa “Nueva Ingeniería para el 2030 – Regiones” de CORFO.",
+    "texto": "FIULS2030 declara como su misión “transformar a la Facultad de Ingeniería de la Universidad de La Serena en referente nacional e internacional en I+D+i+e, con énfasis en minería, energía y sustentabilidad, involucrando a los diferentes actores y sectores de la sociedad, para contribuir a la formación de capital humano de clase mundial”, y su visión es “posicionar a la Facultad de Ingeniería de la Universidad de La Serena entre las mejores facultades de ingeniería chilenas, destacándose en el ámbito nacional e internacional en I+D+i+e en minería, energía y sustentabilidad, involucrando a los diferentes actores y sectores de la sociedad”.\n\nEl proyecto se estructura en base a 6 Ejes Estratégicos, los cuales son:\nEje 1: Gobernanza y sinergias\nEje 2: Capital humano y gestión del cambio\nEje 3: I+D aplicada y vinculación con la Industria\nEje 4: Comercialización de tecnología y emprendimientos de base tecnológica\nEje 5: Alianzas internacionales y movilidad\nEje 6: Armonización curricular y postgrados de base tecnológica",
+    "imagen": "fiuls2030-1.png",
+    "link": "https://ing2030.fiuls.cl/"
+  }
+]
