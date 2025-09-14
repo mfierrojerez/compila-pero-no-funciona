@@ -6,7 +6,7 @@ const SECTIONS=[
   {id:"departamento",title:"Departamento",module:"modulos/departamento/departamento.html",css:"modulos/departamento/departamento-style.css"},
   {id:"staff",title:"STAFF",module:"modulos/staff/staff.html",css:"modulos/staff/staff-style.css"},
   {id:"carreras",title:"Carreras",module:"modulos/carreras.html",css:"modulos/carreras-style.css"},
-  {id:"proyectos",title:"Proyectos",module:"modulos/proyectos.html",css:"modulos/proyectos-style.css"},
+  {id:"proyectos",title:"Proyectos",module:"modulos/proyectos/proyectos.html",css:"modulos/proyectos/proyectos-style.css"},
   {id:"investigacion",title:"Investigación",module:"modulos/investigacion.html",css:"modulos/investigacion-style.css"},
   {id:"eventos",title:"Eventos",module:"modulos/eventos.html",css:"modulos/eventos-style.css"},
   {id:"contacto",title:"Contacto",module:"modulos/contacto/contacto.html",css:"modulos/contacto/contacto-style.css"}
