@@ -33,7 +33,9 @@
     <script type="text/babel" data-presets="react,env" src="modulos/hero/hero.jsx"></script>
     <script type="text/babel" data-presets="react,env" src="modulos/noticias/noticias.jsx"></script>
     <script type="text/babel" data-presets="react,env" src="modulos/staff/staff.jsx"></script>
+    <script type="text/babel" data-presets="react,env" src="modulos/carreras/carreras.jsx"></script>
     <script type="text/babel" data-presets="react,env" src="modulos/departamento/departamento.jsx"></script>
+    <script type="text/babel" data-presets="react,env" src="modulos/memorias/memorias.jsx"></script>
     <script type="text/babel" data-presets="react,env" src="modulos/proyectos/proyectos.jsx"></script>
     <script type="text/babel" data-presets="react,env" src="modulos/contacto/contacto.jsx"></script>
 
@@ -53,7 +55,9 @@
         function run(){
           tryMount('[data-noticias-root]', 'mountNoticias');
           tryMount('[data-staff-root]', 'mountStaff');
+          tryMount('[data-carreras-root]', 'mountCarreras');
           tryMount('[data-departamento-root]', 'mountDepartamento')
+          tryMount('[data-memorias-root]', 'mountMemorias'); 
         }
         document.addEventListener('DOMContentLoaded', run);
         new MutationObserver(run).observe(document.documentElement,{childList:true,subtree:true});

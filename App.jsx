@@ -5,9 +5,10 @@ const SECTIONS=[
   {id:"noticias",title:"Noticias",module:"modulos/noticias/noticias.html",css:"modulos/noticias/noticias-style.css"},
   {id:"departamento",title:"Departamento",module:"modulos/departamento/departamento.html",css:"modulos/departamento/departamento-style.css"},
   {id:"staff",title:"STAFF",module:"modulos/staff/staff.html",css:"modulos/staff/staff-style.css"},
-  {id:"carreras",title:"Carreras",module:"modulos/carreras.html",css:"modulos/carreras-style.css"},
+  {id:"carreras",title:"Carreras",module:"modulos/carreras/carreras.html",css:"modulos/carreras/carreras-style.css"},
   {id:"proyectos",title:"Proyectos",module:"modulos/proyectos/proyectos.html",css:"modulos/proyectos/proyectos-style.css"},
   {id:"investigacion",title:"Investigación",module:"modulos/investigacion/investigacion.html",css:"modulos/investigacion/investigacion-style.css"},
+  {id:"memorias",title:"Memorias",module:"modulos/memorias/memorias.html",css:"modulos/memorias/memorias-style.css"},
   {id:"eventos",title:"Eventos",module:"modulos/eventos.html",css:"modulos/eventos-style.css"},
   {id:"contacto",title:"Contacto",module:"modulos/contacto/contacto.html",css:"modulos/contacto/contacto-style.css"}
 ];
@@ -121,12 +122,20 @@ function initSection(id, root){
     return; // evita que corra tabs/slider legacy
   }
 
-  if(id==="carreras"){ const t=root.querySelector(".tabs"); if(t) tabsInit(t) }
+  if(id === "carreras") {
+    const cont = root.querySelector("#proyectos-slide");
+    if(cont && window.mountCarreras) window.mountCarreras(cont);
+  }
 
   if(id === "proyectos") {
     const cont = root.querySelector("#proyectos-slide");
     if(cont && window.mountProyectos) window.mountProyectos(cont);
   }
+  if(id==="memorias"){
+  const host = root.querySelector("[data-memorias-root]");
+  if (window.mountMemorias && host) window.mountMemorias(host);
+  return;
+}
 
   if(id==="eventos"){ const cal=root.querySelector(".calendar"); if(cal) calendarInit(cal) }
   if(id==="contacto"){

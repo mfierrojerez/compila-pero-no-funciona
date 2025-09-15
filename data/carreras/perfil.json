@@ -1,0 +1,25 @@
+{
+  "titulo": "Perfil de Egreso",
+  "intro": ["La Universidad de La Serena define el Ingeniero Civil como un profesional encargado de concebir, planificar, diseñar, construir, operar y mantener obras de infraestructura tales como edificación, industriales, marítimas, hidráulicas, viales, entre otras, destinadas a aprovechar y a transformar los recursos naturales, en beneficio de la satisfacción eficiente, segura, económica y sustentable de las necesidades materiales de la sociedad, ya sea en forma individual o integrando y dirigiendo equipos multidisciplinarios.", "El Ingeniero Civil de la Universidad de La Serena, tiene la capacidad de:"],
+  "categorias": {
+    "Genéricas": [
+      "Aprender autónomamente.",
+      "Comunicarse adecuadamente en forma oral y escrita en idioma español, con énfasis en el ámbito de su especialidad.",
+      "Comunicarse instrumentalmente en el idioma Inglés.",
+      "Integrar y trabajar efectivamente en equipos.",
+      "Pensar de manera crítica."
+    ],
+    "Específicas": [
+      "Aplicar los conocimientos de Ciencias Básicas, Ciencias de la Ingeniería e Ingeniería Aplicada para proyectar, analizar, diseñar y construir Obras Civiles, tales como obras de edificación, industriales, marítimas, hidráulicas, viales, entre otras.",
+      "Modelar sistemas estructurales, geotécnicos, hidráulicos y de construcción propios de su especialidad.",
+      "Aplicar los conocimientos adquiridos a la gestión de proyectos de ingeniería civil tanto en la planificación, organización, coordinación, administración, control y ejecución de la construcción de dichos proyectos.",
+      "Evaluar proyectos propios de su especialidad en forma técnica, económica, social, considerando la dimensión ambiental.",
+      "Utilizar la tecnología de la información y software como herramientas para el desarrollo de proyectos de ingeniería y apoyo a la gestión.",
+      "Diseñar, ejecutar y analizar experiencias de terreno y laboratorio en el ámbito de su especialidad."
+    ],
+    "Actitudinales": [
+      "Aportar a la innovación y el mejoramiento de tecnologías y procedimientos propios del ámbito de su especialidad.",
+      "Comprender su rol profesional y compromiso legal, ético y medio ambiental con una sociedad diversa, expresado a través del desarrollo de proyectos de su especialidad."
+    ]
+  }
+}

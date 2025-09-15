@@ -1,0 +1,13 @@
+{
+  "titulo": "Plan de Estudio",
+  "subsecciones": [
+    {
+      "titulo": "Requisitos para la obtención del Grado académico y el Título profesional",
+      "items": [
+        "Haber aprobado la totalidad de las asignaturas del Plan de Estudios.",
+        "Haber cumplido y aprobado las prácticas profesionales en empresas afines.",
+        "Haber aprobado y defendido satisfactoriamente su Memoria de Título."
+      ]
+    }
+  ]
+}

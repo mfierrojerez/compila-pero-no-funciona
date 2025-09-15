@@ -1,0 +1,1143 @@
+{
+  "titulo": "Memorias",
+  "intro":"Este listado contiene solamente el título de las memorias, estudiantes, carrera, área, comisión revisora y año de cada trabajo. Para conseguir el texto de estos trabajos, por favor dirigirse a Biblioteca Central «Irma Salas Silva» de la Universidad de La Serena.",
+  "items": [
+    {
+      "titulo": "Análisis De La Respuesta En Superficie De Una Masa De Suelo Debido A La Influencia De Un Lente De Distintas Rigideces Variando En Profundidad.",
+      "estudiantes": [
+        "Valery Godoy Cuevas"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Rodríguez Urquiza (Profesor patrocinante)",
+        "Mario Durán Lillo",
+        "Walter Mondaca Gálvez"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Diseño Estructural De Líneas Eléctricas De Alta Tensión.",
+      "estudiantes": [
+        "Rodrigo Alfaro Varas"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Luis Díaz Zamora (Profesor patrocinante)",
+        "Jaime Campbell Barraza",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Estudio Del Comportamiento De Losas De Pavimento Rígido Debido A La Incorporación De Barras De Traspaso De Carga.",
+      "estudiantes": [
+        "Rocío Álvarez",
+        "Esteban Vásquez"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor patrocinante)",
+        "Alan Olivares Gallardo",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Análisis De Los Períodos Propios En Estanques En Agua Potable Rural En Las Comunas De La Serena Y Coquimbo.",
+      "estudiantes": [
+        "Tiare González Cárcamo",
+        "Paul Kusterman Bravo"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor patrocinante)",
+        "Luis Díaz Zamora",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Análisis dinámico de estanques de agua potable de la conurbación La Serena – Coquimbo mediante modelación numérica utilizando el software ANSYS.",
+      "estudiantes": [
+        "Ariel Parra Rojas",
+        "Moira Rojas Vargas"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor patrocinante)",
+        "Luis Díaz Zamora",
+        "Mario Durán Lillo"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Diseño De Un Sistema De Recolección Y Reutilización De Aguas Grises, Para Una Vivienda Particular, Apoyado En Metodología BIM.",
+      "estudiantes": [
+        "Diego Orellana Vargas",
+        "Mauricio Cayo Gajardo"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Walter Mondaca Gálvez",
+        "Rodrigo Olivares Pérez"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Caracterización De Vehículos Pesados Y Su Influencia En El Diseño De Estructuras De Pavimento Rígido.",
+      "estudiantes": [
+        "Juan Vilo",
+        "Pedro Vargas"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor patrocinante)",
+        "Edmundo González Ortuya",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Análisis De Suelos De Fundación De Edificio Con Riesgo De Licuación.",
+      "estudiantes": [
+        "Gabriela Alfaro Alfaro",
+        "Gabriela Marín Tapia"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Rodríguez Urquiza (Profesor patrocinante)",
+        "Jaime Campbell Barraza",
+        "Walter Mondaca Gálvez"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Análisis De Costos Operacionales En La Recolección, Tratamiento Y Disposición Final De Aguas Servidas En Comunidades Rurales De La Región De Atacama.",
+      "estudiantes": [
+        "Fernando Iribarren Morel"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Edmundo González Ortuya",
+        "Cristian Pereira"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Estimación de la capacidad al corte y del desplazamiento horizontal de muros de albañilería armada solicitados a carga cíclica.",
+      "estudiantes": [
+        "Eduardo Rojas Araya",
+        "Diego Véliz Flores"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Luis Díaz Zamora (Profesor patrocinante)",
+        "Jaime Campbell Barraza",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Modelamiento Simplificado Y Cálculo De Distancia Peligrosa Para Depósitos De Relaves Mediante El Uso De Herramientas Computacionales.",
+      "estudiantes": [
+        "Diego Troncoso Alfaro"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Rodríguez Urquiza (Profesor patrocinante)",
+        "Oscar Labarca Alvarado",
+        "Walter Mondaca Gálvez"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Modelo De Flujo Unidimensional Para Sistemas De Redes De Canales Abiertos Y Cerrados Usando La Técnica De Modelación De Diferencias Finitas.",
+      "estudiantes": [
+        "Cristopher Olmos Pérez",
+        "Matías Villalobos Aguirre"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Edmundo González Ortuya (Profesor patrocinante)",
+        "Rodrigo Guerra Rojas",
+        "Alan Olivares Gallardo"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Análisis De Estructuras De Pavimentos Flexibles Mediante El Método Shell Y Su Relación Con El Número Estructural Según Aashto.",
+      "estudiantes": [
+        "Alice Pizarro López"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor patrocinante)",
+        "Alan Olivares Gallardo",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Sistema de Aislación Térmica Exterior “EIFS” Como Solución Constructiva Para un Proyecto Habitacional.",
+      "estudiantes": [
+        "Karen Fernando Morales Monárdez",
+        "Lukas Bastián Torres Valenzuela"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Walter Mondaca Gálvez (Profesor patrocinante)",
+        "Edmundo González Ortuya",
+        "Rodrigo Olivares Pérez"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Medición y comparación de periodos propios en algunos puentes y pasarelas de la Región de Coquimbo mediante microvibraciones.",
+      "estudiantes": [
+        "José Pablo Sepúlveda Elduayen"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor patrocinante)",
+        "Luis Díaz Zamora",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2021
+    },
+    {
+      "titulo": "Evaluación del Impacto de Dosificaciones para la Optimización de los Materiales en Hormigón de Pavimento. Caso de Aplicación : Método Shilstone.",
+      "estudiantes": [
+        "Roberto Castillo Curiqueo",
+        "Sebastián Pizarro Flores"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor patrocinante)",
+        "Alan Olivares Gallardo",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2020
+    },
+    {
+      "titulo": "Estudio de Rediseño de trazado, colector de Aguas lluvias, sector La Pampa, La Serena.",
+      "estudiantes": [
+        "Joaquín Prieto Gutiérrez"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Rodrigo Guerra Rojas",
+        "Gabriel Valdivia González"
+      ],
+      "anio": 2020
+    },
+    {
+      "titulo": "Modelación De Pavimientos Flexibles Utilizando Elementos Finitos Mediante El Software ANSYS.",
+      "estudiantes": [
+        "Rosario Gallardo Cortés",
+        "Reinaldo Sáez Saravia"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor patrocinante)",
+        "Alan Olivares Gallardo",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2020
+    },
+    {
+      "titulo": "Análisis Y Diseño De Un Edificio Comercial De Hormigón Armado.",
+      "estudiantes": [
+        "Daniel Plaza Ordenes"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Luis Díaz Zamora (Profesor patrocinante)",
+        "Jaime Campbell Barraza",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2020
+    },
+    {
+      "titulo": "Analisis De Escorrentía Para La Revisión Y Verificación Del Plan Maestro De Evacuación Y Drenaje De Aguas Lluvias De Coquimbo Y La Serena.",
+      "estudiantes": [
+        "Rodrigo Brito Saavedra",
+        "Eduardo Campos Contreras"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Edmundo González Ortuya",
+        "Gabriel Valdivia González"
+      ],
+      "anio": 2020
+    },
+    {
+      "titulo": "Estudio para la elaboración del modelo predictivo de fallas en conducciones de distribución de agua potable urbana",
+      "estudiantes": [
+        "Nicolás Pastén Lomas",
+        "Sebastián Pizarro Galleguillos"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor patrocinante)",
+        "Edmundo González Ortuya",
+        "Alan Olivares Gallardo"
+      ],
+      "anio": 2020
+    },
+    {
+      "titulo": "Proceso constructivo de pilas de entibación y socalzado en la obra Normalización del Hospital de La Serena 1° Etapa, CDT (Centro de Diagnóstico Terapéutico",
+      "estudiantes": [
+        "Fritza Véliz Zirricueta",
+        "Yimara Villalobos Henríquez"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Walter Mondaca Gálvez (Profesor patrocinante)",
+        "Rodrigo Olivares Pérez",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Sistema externo de mejoramiento y apoyo a la calidad (S.E.M.A.C.)",
+      "estudiantes": [
+        "Daniela Rojas González"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Walter Mondaca Gálvez (Profesor patrocinante)",
+        "Paulo Castillo Calderón",
+        "Rodrigo Olivares Pérez"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Diseño de depositos de relaves espesados sobre depósitos de relaves convencionales",
+      "estudiantes": [
+        "Oscar Obregón Varas"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Rodriguez Urquiza (Profesor patrocinante)",
+        "Oscar Labarca Alvarado",
+        "Walter MOndaca Gálvez"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Influencia del ancho de los pilares en el comportamiento estructural de muros de albañilería confinada",
+      "estudiantes": [
+        "Catalina Choque Astudillo"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Luis Diaz Zamora (Profesor patrocinante)",
+        "Jaime Campbell Barraza",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Propuesta de soluciones constructivas de reacondicionamiento térmico de la envolvente en las viviendas de la ciudad de La Serena",
+      "estudiantes": [
+        "Werner Alarcón Martínez",
+        "Diego Pizarro Escudero"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Armando Mansilla Sunkel (Profesor patrocinante)",
+        "Alan Olivares Gallardo",
+        "Walter Mondaca Gálvez"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Análisis, evaluación y diseño de desvíos para plan de aseguramiento de calidad en la gestión de desvíos de tránsito en una obra vial urbana",
+      "estudiantes": [
+        "Daniela Araya Tapia"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": "Hidráulica",
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Rodrigo Olivares Pérez",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Análisis del comportamiento de una vivienda social fundadas en suelo expansivo",
+      "estudiantes": [
+        "Maricel Vega Leal",
+        "Mauricio Rubio Pezoa"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": "Estructuras",
+      "comision_revisora": [
+        "Jaime Rodriguez Urquiza (Profesor patrocinante)",
+        "Rodrigo Guerra Rojas",
+        "Walter Mondaca Gálvez"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Catastro y diagnóstico de las estaciones fluviométricas de la provincia del Choapa",
+      "estudiantes": [
+        "Mauricio Acuña Muñoz",
+        "Leandro Escobar Maldonado"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Edmundo González Ortuya",
+        "Patricio Luengo Ávalos"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Análisis del desempeño del pavimento de la avda. Presidente José Manuel Balmaceda durante su vida útil",
+      "estudiantes": [
+        "Daniel Robledo Neira"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor patrocinante)",
+        "Paulo Castillo Calderón",
+        "Alan Olivares Gallardo"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Diseño y verificación del funcionamiento de un equipo básico para la recolección de agua a través de aire",
+      "estudiantes": [
+        "Felipe Montecinos Geraldo"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Olivares Pérez (Profesor patrocinante)",
+        "Walter Mondaca Gálvez",
+        "Alan Olivares Gallardo"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Uso de moldaje Western Forms en edificio condominio Alto Hacienda",
+      "estudiantes": [
+        "Marianela Guajardo Henríquez"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Walter Mondaca Gálvez (Profesor patrocinante)",
+        "Paulo Castillo Calderón",
+        "Rodrigo Olivares Pérez"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Manual para la tramitación, diseño, construcción y puesta en servicio de instalaciones sanitarias domiciliarias de agua potable y alcantarillado particular en zonas rurales",
+      "estudiantes": [
+        "Jordan Parrao Acevedo"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Walter Mondaca Gálvez",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Diseño y puesta en marcha de planta de tratamiento para residuos de establecimientos de atención de salud",
+      "estudiantes": [
+        "Piero Ghiglino Pedemonte"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Luis Alcayaga Barraza",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Estudio para la recarga de acuíferos en las zonas de Limarí y Choapa mediante el uso de aguas servidas tratadas",
+      "estudiantes": [
+        "Eduardo Galleguillos Galleguillos"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Edmundo Gonzáles Ortuya",
+        "Paulo Castillo Calderón"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Análisis del comportamiento dinámico de masas de suelos clasificados según el decreto supremo N°61 ante la presencia de lentes de diferentes rigideces a distintas profundidades",
+      "estudiantes": [
+        "Patricia Prado Cataldo"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Rodríguez Urquiza (Profesor patrocinante)",
+        "Mario Duran Lillo",
+        "Walter Mondaca Gálvez"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Estudio sobre los sistemas de saneamiento rural en base a tecnologías que sean eficientes y amigables con la agricultura regional",
+      "estudiantes": [
+        "Valeria Huerta Pereira"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Edmundo Gonzalez Ortuya",
+        "Rodrigo Guerra Rojas"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Estimación de caudales de crecida en la quebrada Leiva, localidad de Vicuña, región de Coquimbo",
+      "estudiantes": [
+        "Laura Díaz González"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Edmundo González Ortuya",
+        "Rodrigo Guerra Rojas"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Medición de períodos propios en estructuras no habitacionales mediante microvibraciones",
+      "estudiantes": [
+        "Camila Steib Pinto",
+        "Juan Pablo Gallardo"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor patrocinante)",
+        "Luis Díaz Zamora",
+        "Mario Duran Lillo"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Análisis de Pérdidas del Sistema de Agua Potable La Serena – Coquimbo – Algarrobito.",
+      "estudiantes": [
+        "Milenko Goic Zuares",
+        "Paulino Ledezma Cortés"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Edmundo González Ortuya",
+        "Juan Pablo Jacob Villar"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Análisis de la Infraestructura Sanitaria Existente de Algunos Sectores de Coquimbo y de su Capacidad Hidráulica Ante el Crecimiento Urbano.",
+      "estudiantes": [
+        "Loretto Meneses Guerrero"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Edmundo González Ortuya",
+        "Rodrigo Guerra Rojas"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Cálculo de la Producción de Sedimentos en la Subcuenca del Río Illapel Mediante Modelo Hidrológico HEC-HMS.",
+      "estudiantes": [
+        "Owen Gajardo Sarmiento"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Edmundo González Ortuya (Profesor patrocinante)",
+        "Alan Olivares Gallardo",
+        "Rodrigo Guerra Rojas"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Análisis del Comportamiento del Deterioro Durante la Vida Útil de un Pavimento Urbano a Través de Métodos de Auscultación.",
+      "estudiantes": [
+        "Pablo Robles Parraguez"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor patrocinante)",
+        "Alan Olivares Gallardo",
+        "Luis Alcayaga Barraza"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Medición de Períodos Propios en Edificios Habitacionales Altos de la Conurbación La Serena – Coquimbo Mediante Microvibraciones.",
+      "estudiantes": [
+        "Cristian Chirino Cepeda",
+        "Francisco Huerta Palma"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor patrocinante)",
+        "Luis Díaz Zamora",
+        "Mario Duran Lillo"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Impacto de Tsunami en Edificio Ubicado en el Borde Costero de la Región de Coquimbo.",
+      "estudiantes": [
+        "Daniela Marambio de la Barra",
+        "Oscar Miranda Roco"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Walter Mondaca Galvez (Profesor patrocinante)",
+        "Paulo Castillo Calderon",
+        "Armando Mansilla Sunkel"
+      ],
+      "anio": 2019
+    },
+    {
+      "titulo": "Diseño de Sistema de Recolección y Tratamiento de Aguas Servidas Para la Localidad de Pedregal de Mostazal, Comuna de Monte Patria.",
+      "estudiantes": [
+        "Pedro Adaro Arqueros"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Walter Mondaca Galvez",
+        "Luis Alcayaga Barraza"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Manual de Ensayos de Laboratorio Para el Mejoramiento de la Enseñanza y Aprendizaje de las Asignaturas del Área Hidráulica del Departamento de Ingeniería en Obras Civiles.",
+      "estudiantes": [
+        "Eduardo Espinoza Cerenic",
+        "Pablo Reyes Mella"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Walter Mondaca Galvez",
+        "Edmundo Gonzalez Ortuya"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Estudio de la Curva Esfuerzo – Deformación del Hormigón Confinado por Refuerzos de Acero.",
+      "estudiantes": [
+        "Luisebastian Guerrero Lugaro"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Luis Diaz Zamora (Profesor patrocinante)",
+        "Jaime Campbell Barraza",
+        "Luis Alcayaga Barraza"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Estudio Hidrológico y Encauzamiento de la Quebrada de Paipote en Evento Hidrometereológico de Marzo de 2015, Región de Atacama.",
+      "estudiantes": [
+        "Alvaro Maluenda Godoy"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Edmundo Gonzalez Ortuya (Profesor patrocinante)",
+        "Rodrigo Guerra Rojas",
+        "Alan Olivares Gallardo"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Desarrollo de Soluciones Técnicas para Dotar de Agua Potable a Pequeñas Localidades Rurales de la Región de Coquimbo.",
+      "estudiantes": [
+        "Giovanni Bugueño Trigos"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor patrocinante)",
+        "Rodrigo Guerra Rojas",
+        "Edmundo Gonzalez Ortuya"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Análisis del Comportamiento de Estructuras de Pavimentos Asfálticos Fundados Sobre Suelos de Alta Resistencia Para Vías de la Región de Coquimbo.",
+      "estudiantes": [
+        "Samuel Diaz Ortiz"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor patrocinante)",
+        "Alan Olivares Gallardo",
+        "Luis Alcayaga Barraza"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Comportamiento de Suelos Expansivos de la IV Región de Coquimbo. Análisis de Presión de Hinchamiento e Hinchamiento Libre.",
+      "estudiantes": [
+        "Yennifer Perez Rojas",
+        "Damarys Laguna Araya"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Rodriguez Urquiza (Profesor patrocinante)",
+        "Rodrigo Guerra Rojas",
+        "Walter Mondaca Gálvez"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Estimación de Caudales Medios Mensuales, Validación y Calibración Para la Cuenca del Rio Elqui Mediante Técnicas de Downscaling Estadístico.",
+      "estudiantes": [
+        "Francisca Fredes Alvarez"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Edmundo Gonzalez Ortuya (Profesor patrocinante)",
+        "Alan Olivares Gallardo",
+        "Luis Alcayaga Barraza"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Estudio Para la Prevención de Patología Eflorescencia en Hormigón de Fundaciones, Muros, Pilares y Radieres en la Ciudad de La Serena.",
+      "estudiantes": [
+        "Pablo Ramirez Barrios",
+        "Pablo Fernandez Tapia"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Walter Mondaca Galvez (Profesor Patrocinante)",
+        "Luis Quevedo Morales",
+        "Armando MAnsilla Sunkel"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Sistema de Fabricación y Aplicación de Productos Prefabricados en Edificación, Empresa Constructora ECOMAC.",
+      "estudiantes": [
+        "Carla Rivera Arancibia",
+        "Francisca Ramos Carvajal"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Gloria Llambia Abatte (Profesor Patrocinante)",
+        "Walter Mondaca Galvez",
+        "Armando Mansilla Sunkel"
+      ],
+      "anio": 2018
+    },
+    {
+      "titulo": "Análisis del Comportamiento de Pavimentos de Hormigón Sometidos a la Variación de Parámetros de Diseño y su Influencia en los Modelos de Fatiga.",
+      "estudiantes": [
+        "Jose Francisco Covarrubias Cortes",
+        "Cristian Alfredo Nuñez Alvarez"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Gloria Llambias Abatte (Profesor Patrocinante)",
+        "Luis Alcayaga Barraza",
+        "Alan Olivares Gallardo"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Diseño de un Sistema de Tratamiento Para la Recuperación y Reutilización de Aguas Grises.",
+      "estudiantes": [
+        "Patricio Andres Foix"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor Patrocinante)",
+        "Edmundo Gonzalez Ortuya",
+        "Victor Aros Araya"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Determinación de la Resistencia al Corte Crítico en Suelos Granulares.",
+      "estudiantes": [
+        "Ana María Marín Avilés"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Rodríguez Urquiza (Profesor Patrocinante)",
+        "Walter Mondaca Galvez",
+        "Luis Alcayaga Barraza"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis Estructural de un Edificio en Altura de Planta Irregular y la Influencia de Utilizar Juntas de Dilatación.",
+      "estudiantes": [
+        "Luis Alzamora Fuentes",
+        "Joaquín Campos García"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Luis Diaz Zamora (Profesor Patrocinante)",
+        "Jaime Campbell Barraza",
+        "Mario Duran Lillo"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis del Sistema de Recolección de Aguas Servidas de la Avenida del Mar, La Serena, Usando el Software SWMM 5.0.",
+      "estudiantes": [
+        "Natalia Rojas Vega"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor Patrocinante)",
+        "Edmundo Gonzalez Ortuya"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Influencia de la Velocidad del Ensayo de Cortes en los Parámetros de Resistencia al corte de Algunos Suelos de la Ciudad de la Serena y Coquimbo.",
+      "estudiantes": [
+        "Gloria Escobar Medina"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Rodriguez Urquiza (Profesor Patrocinante)",
+        "Walter Mondaca Galvez",
+        "Jaime Campbell Barraza"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Predicción de Precipitaciones Para la Región de Coquimbo.",
+      "estudiantes": [
+        "Hans Manuel Cortes Meneses"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Edmundo Gonzalez Ortuya (Profesor Patrocinante)",
+        "Alan Olivares Gallardo",
+        "Victor Aros Araya"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis del Comportamiento de Tensiones y Deformaciones de la Capa de Rodado que Conforma la Estructura de Pavimentos Para Zonas de Estacionamiento.",
+      "estudiantes": [
+        "Fernanda Ardiles Campusano",
+        "María José Nogales Marambio"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor Patrocinante)",
+        "Luis Alcayaga Barraza",
+        "Jose Aguilera Muñoz"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Estudio de Diseño de Elementos de Hormigón Presforzado.",
+      "estudiantes": [
+        "Cristian Espejo Mercado"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Luis Diaz Zamora (Profesor Patrocinante)",
+        "Rodrigo Guerra Rojas",
+        "Luis Alcayaga Barraza"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Estudio Estructural de la Catedral de La Serena con Modelación en Programa ANSYS.",
+      "estudiantes": [
+        "Javier Escobar Carrasco",
+        "Jean Guzman Heldt"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor Patrocinante)",
+        "Mario Duran Lillo",
+        "Luis Diaz Zamora"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis Hidráulico de Aducción de Aguas Servidas en el Trayecto Tierras Blancas – Coquimbo, Utilizando Software SWMM 5.0.",
+      "estudiantes": [
+        "Tamara Gutierrez Juarez",
+        "Daniela Portilla Espinoza"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor Patrocinante)",
+        "Victor Aros Araya",
+        "Edmundo Gonzalez Ortuya"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis y Evaluación Estructural Preliminar Mediante Modelación Computacional de Iglesia Guayacán, Coquimbo.",
+      "estudiantes": [
+        "Mauricio Manzano Toro"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor Patrocinante)",
+        "Mario Duran Lillo",
+        "Luis Diaz Zamora"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Revisión y Análisis de las Obras Ejecutadas en la Provincia del Limarí Para Asegurar el Mejoramiento en el Suministro de Agua Potable.",
+      "estudiantes": [
+        "Richard Deivin Codoceo Rojas"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor Patrocinante)",
+        "Edmundo Gonzalez Ortuya",
+        "Victor Aros Araya"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Evaluación Estructural del Faro Monumental de La Serena Usando el Software ANSYS.",
+      "estudiantes": [
+        "Angello Alvarez Chavez",
+        "Lukas Ramirez Calderon"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor Patrocinante)",
+        "Mario Duran Lillo",
+        "Luis Diaz Zamora"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis Comparativo Sobre la Implementación de Sistemas no Convencionales en el Manejo de Recursos Para un Proyecto de Vivienda Social.",
+      "estudiantes": [
+        "Ricardo de la Cerda Alaniz"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor Patrocinante)",
+        "Armando Mansilla Sunkel",
+        "Victor Aros Araya"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis del Efecto Arco en Suelos Característicos de la Ciudad de La Serena Para el Diseño de Pilas de Entibación a Partir de Modelos de Elementos Finitos.",
+      "estudiantes": [
+        "Hernán Munizaga Kappes"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Rodriguez Urquiza (Profesor Patrocinante)",
+        "Jaime Campbell Barraza",
+        "Rodrigo Guerra Rojas"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis Comparativo del Comportamiento Estructural y de Costos Entre un Edificio Habitacional Convencional y uno Aislado en la Base.",
+      "estudiantes": [
+        "Jorge Araya Varela"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor Patrocinante)",
+        "Mario Duran Lillo",
+        "Luis Diaz Zamora"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis Comparativo de las Exigencias de la Norma Chilena de Diseño Sísmico con Respecto a Diferentes Normas Internacionales.",
+      "estudiantes": [
+        "Cristian Alfaro Godoy"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Jaime Campbell Barraza (Profesor Patrocinante)",
+        "Mario Duran Lillo",
+        "Luis Diaz Zamora"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Desarrollo de una Aplicación Computacional para el Análisis del Flujo Impermanente en Conducciones a Presión.",
+      "estudiantes": [
+        "Sebastian Olea Canales"
+      ],
+      "carrera": "Ingeniería Civil",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor Patrocinante)",
+        "Edmundo Gonzalez Ortuya",
+        "Victor Aros Araya"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Gestión en Programas Públicos Para la Adjudicación de Subsidios Habitacionales Rurales.",
+      "estudiantes": [
+        "Ricardo Gaona Nuñez",
+        "Leonardo Nuñez Herrera"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Luis Alcayaga Barraza (Profesor Patrocinante)",
+        "Rodrigo Guerra Rojas",
+        "Rodrigo Olivares Perez"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Análisis Técnico de Alternativas de Construcción de los tramos 3 y 4 de la Línea 6 Metro de Santiago Método Constructivo NATM.",
+      "estudiantes": [
+        "Carlos Navarrete Godoy"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Guerra Rojas (Profesor Patrocinante)",
+        "Luis Alcayaga Barraza",
+        "Rodrigo Olivares Pérez"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Aplicación de la Norma ISO 10005 – 2005 en el Departamento SECPLAN de la Ilustre Municipalidad de Ovalle.",
+      "estudiantes": [
+        "Felipe Jamett Egaña"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Rodrigo Olivares Pérez (Profesor Patrocinante)",
+        "Walter Mondaca Galvez",
+        "Gloria Llambias Abatte"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Estudio y Diseño de Sistema Conductor de Aguas Industriales a Mina Carmen, Diego de Almagro.",
+      "estudiantes": [
+        "Alexis Pizarro Escobar"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor Patrocinante)",
+        "Walter Mondaca Galvez",
+        "Armando Mansilla Sunkel"
+      ],
+      "anio": 2017
+    },
+    {
+      "titulo": "Diseño de Instalación Domiciliaria de Alcantarillado Para el Casino Ignacio Domeyko de la Universidad de La Serena.",
+      "estudiantes": [
+        "Italo Manuel Rojas Zambra"
+      ],
+      "carrera": "Ingeniería en Construcción",
+      "area": null,
+      "comision_revisora": [
+        "Alan Olivares Gallardo (Profesor Patrocinante)",
+        "Walter Mondaca Galvez",
+        "Gloria Llambias Abatte"
+      ],
+      "anio": 2017
+    }
+  ]
+}
